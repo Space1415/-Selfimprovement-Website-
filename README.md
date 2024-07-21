@@ -58,7 +58,7 @@ Your Interactive Diary is a web application designed to help you track various a
 
 ## Contributing
 
-We welcome contributions! Please follow these steps to contribute:
+I welcome contributions! Please follow these steps to contribute:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
@@ -66,11 +66,8 @@ We welcome contributions! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-If you have any questions or feedback, please reach out to us at [your-email@example.com].
+If you have any questions or feedback, please reach out.
 
